@@ -18,3 +18,4 @@ command = "mdbook-mermaid"
 [output.html]
 additional-css = ["mdbook-admonish.css"]
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
+cname = "25drl.org"
