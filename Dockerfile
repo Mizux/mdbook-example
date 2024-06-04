@@ -9,7 +9,7 @@ RUN set -xe; \
 
 # Install mdbook
 # see: https://github.com/rust-lang/mdBook
-ENV MDBOOK_VERSION=0.4.32
+ENV MDBOOK_VERSION=0.4.40
 RUN set -xe; \
 	cargo install --target x86_64-unknown-linux-musl mdbook --version ${MDBOOK_VERSION}; \
 	mv /usr/local/cargo/bin/mdbook .; \
