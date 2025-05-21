@@ -63,7 +63,7 @@ graph LR
 
 ## Pour commencer
 
-Si vous êtes nouveau dans le domaine de la 3D, ne vous inquiétez pas ! Notre page ["Getting Started"](getting-started/getting-started.md) vous guidera à travers les étapes essentielles pour démarrer rapidement.
+Si vous êtes nouveau dans le domaine de la 3D, ne vous inquiétez pas ! Notre page ["Getting Started"](getting-started/index.md) vous guidera à travers les étapes essentielles pour démarrer rapidement.
 
 ## Restons en contact
 
